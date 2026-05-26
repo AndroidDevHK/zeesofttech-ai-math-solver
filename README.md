@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-1K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="1K+ Downloads on Google Play" />
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
 </p>
 
 This is a premium, high-performance Android mobile application that I architected and developed **completely from scratch** during my time at **Zeesoft Tech**. 
 
 Designed to act as a personal AI-powered math tutor, this application solves a fundamental educational challenge: converting complex math equations (both printed and handwritten) into clear, structured, and easy-to-understand solutions instantly. The product integrates advanced optical character recognition (OCR) and deep artificial intelligence solvers with a high-performance scientific calculator, helping students, parents, and teachers tackle everything from basic arithmetic to advanced calculus.
 
-With **over 1,000+ active downloads** on the Google Play Store, the app is a powerful showcase of full-stack mobile engineering, camera-processing pipelines, and AI integration.
+With **over 50,000+ active downloads** on the Google Play Store, the app is a powerful showcase of full-stack mobile engineering, camera-processing pipelines, and AI integration.
 
 ## 👨‍💻 My Role & Technical Contributions
 
@@ -94,4 +94,4 @@ Here is a look at the final camera scanning layouts, smart calculator interfaces
 ## 🏢 Project Details
 * **Role:** Lead Developer (Ground-up Architecture & Full-Stack Development)
 * **Company:** Zeesoft Tech
-* **Availability:** Available on the Google Play Store (**1K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.aistudy.math.scan.problemsolver&hl=en)
+* **Availability:** Available on the Google Play Store (**50K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.aistudy.math.scan.problemsolver&hl=en)
