@@ -14,54 +14,55 @@
   <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
 </p>
 
-This is a premium, high-performance Android mobile application that I architected and developed **completely from scratch** during my time at **Zeesoft Tech**. 
+This is an Android application that I designed and built completely from scratch during my time at **Zeesoft Tech**. 
 
-Designed to act as a personal AI-powered math tutor, this application solves a fundamental educational challenge: converting complex math equations (both printed and handwritten) into clear, structured, and easy-to-understand solutions instantly. The product integrates advanced optical character recognition (OCR) and deep artificial intelligence solvers with a high-performance scientific calculator, helping students, parents, and teachers tackle everything from basic arithmetic to advanced calculus.
+The app works as a personal AI math tutor. Users can simply scan any math problem (printed or handwritten) using their phone's camera to get clear, step-by-step solutions in seconds. It covers everything from basic arithmetic to advanced calculus, geometry, and statistics.
 
-With **over 50,000+ active downloads** on the Google Play Store, the app is a powerful showcase of full-stack mobile engineering, camera-processing pipelines, and AI integration.
+With **over 50,000+ downloads** on the Google Play Store, this app helps students, parents, and teachers solve and understand math easily.
 
-## 👨‍💻 My Role & Technical Contributions
+## 👨‍💻 My Role & Contributions
 
-As the **Lead Android Developer**, I solely architected and developed the entire application from the ground up. My key technical contributions included:
+As the **Lead Android Developer**, I developed this entire application from scratch. I was responsible for the full development lifecycle, including:
 
-* **📸 High-Performance Camera & OCR Pipeline:** Engineered the core real-time camera scanning interface, optimizing frames capture and integrating highly accurate OCR models to recognize both handwritten and printed math equations instantly.
-* **🧠 Multi-Problem Recognition Engine:** Designed and implemented a unique multi-scan feature that allows users to capture entire math worksheets in a single shot, segmenting and solving multiple equations concurrently.
-* **🏗️ Ground-up App Architecture:** Developed the clean architecture foundation of the app from scratch, decoupling the AI solving APIs, local SQL database storage, and custom PDF export engines.
-* **🎨 Modern UI/UX Implementation:** Built the interface following Google's **Material 3 / Material You** specifications, focusing on interactive animation transitions, clean step-by-step cards, and responsive custom dialogs.
+* **🏗️ App Architecture:** Designed and built the complete app structure from the ground up, ensuring smooth performance and clean code.
+* **📸 Camera & OCR Integration:** Built the camera scanning feature and integrated OCR technology to instantly recognize math equations.
+* **🧠 Multi-Problem Solver:** Created a feature that allows users to scan and solve multiple math problems on a worksheet at the same time.
+* **🎨 Material 3 UI:** Designed the user interface using Google's **Material 3** guidelines to create a clean, modern, and user-friendly design with customizable themes.
+* **📄 PDF Export & History:** Programmed a tool to save math solutions as professional PDFs and built a local database to keep a history of solved problems.
 
 ## 🔒 Code Sharing & Intellectual Property Notice
 
-Because this app is actively published and holds proprietary commercial value, **the source code cannot be shared publicly** under my employment and confidentiality agreements with **Zeesoft Tech**. 
+Because this app is actively published, **the source code cannot be shared publicly** due to my confidentiality agreement with **Zeesoft Tech**. 
 
-I have created this repository to showcase:
-* The UI/UX styling and design direction.
-* The feature set and user experience workflows.
-* The architectural design and product scope of what I built.
+This repository is created solely to showcase:
+* The design and user interface of the app.
+* The features and user workflows.
+* The technical structure and architecture of the project.
 
-## 🚀 The Core Features I Developed
+## 🚀 Key Features
 
-### 📸 Instant Scan & Solve (Single & Multi-Scan)
-* **Real-time Detection:** Point the camera at any equation to trigger an immediate, high-accuracy AI solve without manual typing.
-* **Worksheet Multi-Scanning:** I developed a revolutionary multi-problem scan option that captures multiple equations on a single page, recognizing and displaying solutions for all of them at once.
+### 📸 Instant Scan & Solve
+* **Camera Input:** Point the camera at any printed or handwritten math problem to get an instant solution.
+* **Multi-Scan:** Capture a whole worksheet with multiple problems in a single shot to solve them all at once.
 
-### 📚 Detailed Step-by-Step Explanations
-* **Interactive Tutoring:** Instead of just outputting a simple number, the app renders comprehensive, logical steps for each equation, explaining the algebraic or calculus methods clearly so users can learn from each process.
+### 📚 Step-by-Step Explanations
+* **Clear Explanations:** The app shows the step-by-step logic behind every answer, helping users understand the math concepts easily.
 
-### 🧮 Built-In Smart Calculator
-* **Custom Scientific Engine:** Created an advanced calculator supporting basic operations, algebraic variables, and complex scientific symbols for typing equations directly.
+### 🧮 Smart Calculator
+* **Built-in Calculator:** An advanced calculator supporting complex math symbols and equations for manual typing.
 
-### 📄 Professional PDF Export & History
-* **Document Engine:** Programmed a custom utility to convert completed solutions (complete with all mathematical steps) into clean, printable PDF sheets to save, print, or share instantly.
-* **Solution Archiver:** Integrated a local SQLite database that saves a full history of past scans for rapid quiz preparation and exam review.
+### 📄 Export & History
+* **PDF Export:** Export any solved math problem with all its steps into a clean PDF document to share or print.
+* **History Log:** Solved problems are automatically saved so users can review them before quizzes or exams.
 
 ## 📱 Subjects Covered
 
-The AI solver supports a wide variety of mathematical disciplines:
-* **Basic Mathematics:** Arithmetic, fractions, and pre-algebra.
-* **Algebra:** Linear/quadratic equations, inequalities, systems of equations, and functions.
-* **Calculus:** Limits, derivatives, integrals, and sequence analysis.
-* **Geometry & Trigonometry:** Shapes, trigonometric identities, and proof checks.
-* **Statistics:** Probability distributions, mean, median, mode, and standard deviation.
+The app solves problems in:
+* **Basic Math:** Arithmetic, fractions, and pre-algebra.
+* **Algebra:** Equations, inequalities, functions, and graphs.
+* **Calculus:** Limits, derivatives, and integrals.
+* **Geometry:** Trigonometry, shapes, and formulas.
+* **Statistics:** Probability and data analysis.
 
 ## 📱 App Screenshots
 
